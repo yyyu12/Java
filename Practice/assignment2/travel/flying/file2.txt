@@ -1,0 +1,7 @@
+BuleStar
+ROME
+36
+2023.1.15 at 12:36
+BuleStar1,12,100
+BuleStar2,36,110
+BuleStar3,48,120

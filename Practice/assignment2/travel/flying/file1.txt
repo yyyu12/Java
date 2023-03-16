@@ -1,0 +1,7 @@
+WhiteStar
+BERLIN
+25
+2023.1.15 at 12:36
+WhiteStar1,11,110
+WhiteStar2,21,210
+WhiteStar3,31,310
