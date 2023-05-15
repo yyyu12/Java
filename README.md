@@ -1,2 +1,2 @@
 # Java
-# 2022 autumn semester 
+2022 autumn semester 
